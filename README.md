@@ -25,4 +25,8 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
