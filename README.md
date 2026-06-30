@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0014-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,4 +36,9 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
