@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0067-add-binary) |
@@ -53,10 +54,12 @@ Here are some ideas to get you started:
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0021-merge-two-sorted-lists) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0021-merge-two-sorted-lists) |
 ## Two Pointers
 |  |
