@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 | ------- |
 | [0001-two-sum](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,6 +69,7 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0005-longest-palindromic-substring) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String Matching
 |  |
