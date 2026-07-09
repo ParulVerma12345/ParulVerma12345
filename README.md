@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 | [0013-roman-to-integer](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0069-sqrtx) |
 ## String
 |  |
 | ------- |
@@ -100,4 +101,5 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
