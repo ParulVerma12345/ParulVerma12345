@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 | [0035-search-insert-position](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -108,6 +109,7 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0005-longest-palindromic-substring) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Binary Search
 |  |
 | ------- |
