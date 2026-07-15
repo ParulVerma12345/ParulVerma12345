@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 | [0015-3sum](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0066-plus-one) |
@@ -128,6 +129,7 @@ Here are some ideas to get you started:
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0704-binary-search) |
