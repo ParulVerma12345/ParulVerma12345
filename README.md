@@ -81,6 +81,7 @@ Here are some ideas to get you started:
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -98,6 +99,7 @@ Here are some ideas to get you started:
 | [0088-merge-sorted-array](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0876-middle-of-the-linked-list) |
 ## String Matching
 |  |
 | ------- |
