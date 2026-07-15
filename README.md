@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 | [0088-merge-sorted-array](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0217-contains-duplicate) |
+| [0704-binary-search](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -119,6 +120,7 @@ Here are some ideas to get you started:
 | ------- |
 | [0035-search-insert-position](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0069-sqrtx) |
+| [0704-binary-search](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0704-binary-search) |
 ## Sorting
 |  |
 | ------- |
