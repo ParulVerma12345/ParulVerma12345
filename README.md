@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 | [0066-plus-one](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0704-binary-search) |
@@ -123,6 +124,7 @@ Here are some ideas to get you started:
 | [0005-longest-palindromic-substring](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0198-house-robber) |
 ## Binary Search
 |  |
 | ------- |
