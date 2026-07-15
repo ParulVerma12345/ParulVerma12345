@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 | [0035-search-insert-position](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0198-house-robber) |
@@ -112,6 +113,7 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0078-subsets) |
 ## Simulation
 |  |
 | ------- |
@@ -184,4 +186,8 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0200-number-of-islands) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
