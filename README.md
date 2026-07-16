@@ -78,6 +78,7 @@ Here are some ideas to get you started:
 | ------- |
 | [0020-valid-parentheses](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0094-binary-tree-inorder-traversal) |
+| [0155-min-stack](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0155-min-stack) |
 ## Linked List
 |  |
 | ------- |
@@ -190,4 +191,8 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0078-subsets) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
