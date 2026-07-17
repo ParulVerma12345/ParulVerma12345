@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0217-contains-duplicate) |
 | [0322-coin-change](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0322-coin-change) |
 | [0704-binary-search](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0704-binary-search) |
@@ -123,6 +124,7 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0209-minimum-size-subarray-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -137,6 +139,7 @@ Here are some ideas to get you started:
 | [0033-search-in-rotated-sorted-array](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0069-sqrtx) |
+| [0209-minimum-size-subarray-sum](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0704-binary-search) |
 ## Sorting
 |  |
@@ -195,4 +198,8 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0155-min-stack) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
