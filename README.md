@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 | [0200-number-of-islands](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0322-coin-change) |
 | [0704-binary-search](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0704-binary-search) |
@@ -49,6 +50,7 @@ Here are some ideas to get you started:
 | [0013-roman-to-integer](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0242-valid-anagram) |
 ## Math
 |  |
@@ -153,6 +155,7 @@ Here are some ideas to get you started:
 | [0015-3sum](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0242-valid-anagram) |
 ## Tree
 |  |
@@ -209,4 +212,8 @@ Here are some ideas to get you started:
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0238-product-of-array-except-self) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
