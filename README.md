@@ -167,6 +167,7 @@ Here are some ideas to get you started:
 | [0104-maximum-depth-of-binary-tree](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0112-path-sum) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -179,6 +180,7 @@ Here are some ideas to get you started:
 | [0110-balanced-binary-tree](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0200-number-of-islands) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -190,6 +192,7 @@ Here are some ideas to get you started:
 | [0104-maximum-depth-of-binary-tree](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0112-path-sum) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -233,4 +236,5 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0098-validate-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
