@@ -164,6 +164,7 @@ Here are some ideas to get you started:
 | [0100-same-tree](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
@@ -173,6 +174,7 @@ Here are some ideas to get you started:
 | [0100-same-tree](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0543-diameter-of-binary-tree) |
@@ -183,6 +185,7 @@ Here are some ideas to get you started:
 | [0100-same-tree](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
