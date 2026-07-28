@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 | [0033-search-in-rotated-sorted-array](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0088-merge-sorted-array) |
@@ -153,6 +154,7 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0229-majority-element-ii) |
