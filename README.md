@@ -87,6 +87,7 @@ Here are some ideas to get you started:
 | ------- |
 | [0020-valid-parentheses](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0155-min-stack) |
 ## Linked List
 |  |
@@ -95,6 +96,7 @@ Here are some ideas to get you started:
 | [0021-merge-two-sorted-lists](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
@@ -102,6 +104,7 @@ Here are some ideas to get you started:
 | ------- |
 | [0002-add-two-numbers](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
@@ -114,6 +117,7 @@ Here are some ideas to get you started:
 | [0088-merge-sorted-array](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0189-rotate-array) |
 | [0876-middle-of-the-linked-list](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0876-middle-of-the-linked-list) |
 ## String Matching
