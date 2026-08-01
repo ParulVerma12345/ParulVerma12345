@@ -48,6 +48,7 @@ Here are some ideas to get you started:
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0704-binary-search](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0724-find-pivot-index) |
+| [0977-squares-of-a-sorted-array](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -127,6 +128,7 @@ Here are some ideas to get you started:
 | [0143-reorder-list](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0189-rotate-array) |
 | [0876-middle-of-the-linked-list](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0977-squares-of-a-sorted-array) |
 ## String Matching
 |  |
 | ------- |
@@ -173,6 +175,7 @@ Here are some ideas to get you started:
 | [0217-contains-duplicate](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0242-valid-anagram) |
+| [0977-squares-of-a-sorted-array](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0977-squares-of-a-sorted-array) |
 ## Tree
 |  |
 | ------- |
