@@ -49,6 +49,7 @@ Here are some ideas to get you started:
 | [0704-binary-search](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/1051-height-checker) |
 ## Hash Table
 |  |
 | ------- |
@@ -176,6 +177,7 @@ Here are some ideas to get you started:
 | [0229-majority-element-ii](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/1051-height-checker) |
 ## Tree
 |  |
 | ------- |
@@ -269,4 +271,8 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0207-course-schedule) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
