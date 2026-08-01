@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 | [0238-product-of-array-except-self](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0322-coin-change) |
 | [0704-binary-search](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -244,6 +245,7 @@ Here are some ideas to get you started:
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0724-find-pivot-index) |
 ## Counting
 |  |
 | ------- |
