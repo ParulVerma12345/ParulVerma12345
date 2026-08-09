@@ -48,6 +48,7 @@ Here are some ideas to get you started:
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0704-binary-search](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0724-find-pivot-index) |
+| [0912-sort-an-array](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/1051-height-checker) |
 ## Hash Table
@@ -176,6 +177,7 @@ Here are some ideas to get you started:
 | [0217-contains-duplicate](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0242-valid-anagram) |
+| [0912-sort-an-array](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/1051-height-checker) |
 ## Tree
@@ -231,6 +233,7 @@ Here are some ideas to get you started:
 | ------- |
 | [0053-maximum-subarray](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0912-sort-an-array) |
 ## Union-Find
 |  |
 | ------- |
@@ -274,5 +277,22 @@ Here are some ideas to get you started:
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/1051-height-checker) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
