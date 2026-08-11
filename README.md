@@ -52,6 +52,7 @@ Here are some ideas to get you started:
 | [0912-sort-an-array](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/1051-height-checker) |
+| [1929-concatenation-of-array](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -146,6 +147,7 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0067-add-binary) |
+| [1929-concatenation-of-array](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/1929-concatenation-of-array) |
 ## Sliding Window
 |  |
 | ------- |
