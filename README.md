@@ -49,6 +49,7 @@ Here are some ideas to get you started:
 | [0238-product-of-array-except-self](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0322-coin-change) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0704-binary-search](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0704-binary-search) |
@@ -139,6 +140,7 @@ Here are some ideas to get you started:
 | [0143-reorder-list](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0977-squares-of-a-sorted-array) |
 ## String Matching
@@ -151,6 +153,7 @@ Here are some ideas to get you started:
 | [0067-add-binary](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
 |  |
 | ------- |
@@ -180,6 +183,7 @@ Here are some ideas to get you started:
 | [0162-find-peak-element](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0704-binary-search) |
 ## Sorting
 |  |
@@ -313,4 +317,12 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0912-sort-an-array) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
