@@ -55,6 +55,7 @@ Here are some ideas to get you started:
 | [0704-binary-search](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0912-sort-an-array) |
+| [0918-maximum-sum-circular-subarray](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/1051-height-checker) |
 | [1929-concatenation-of-array](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/1929-concatenation-of-array) |
@@ -174,6 +175,7 @@ Here are some ideas to get you started:
 | [0152-maximum-product-subarray](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0322-coin-change) |
+| [0918-maximum-sum-circular-subarray](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0918-maximum-sum-circular-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -254,6 +256,7 @@ Here are some ideas to get you started:
 | [0053-maximum-subarray](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0912-sort-an-array) |
+| [0918-maximum-sum-circular-subarray](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0918-maximum-sum-circular-subarray) |
 ## Union-Find
 |  |
 | ------- |
@@ -325,4 +328,12 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0287-find-the-duplicate-number) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
