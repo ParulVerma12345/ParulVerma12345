@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 | [0033-search-in-rotated-sorted-array](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0066-plus-one) |
@@ -153,6 +154,7 @@ Here are some ideas to get you started:
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/1929-concatenation-of-array) |
 ## Sliding Window
@@ -255,6 +257,7 @@ Here are some ideas to get you started:
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0200-number-of-islands) |
 ## Backtracking
