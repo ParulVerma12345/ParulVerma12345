@@ -75,6 +75,7 @@ Here are some ideas to get you started:
 | [0242-valid-anagram](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0560-subarray-sum-equals-k) |
 ## Math
@@ -106,6 +107,7 @@ Here are some ideas to get you started:
 | [0242-valid-anagram](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0424-longest-repeating-character-replacement) |
 ## Trie
 |  |
 | ------- |
@@ -176,6 +178,7 @@ Here are some ideas to get you started:
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0424-longest-repeating-character-replacement) |
 ## Dynamic Programming
 |  |
 | ------- |
