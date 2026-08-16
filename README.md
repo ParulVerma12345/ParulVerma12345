@@ -74,6 +74,7 @@ Here are some ideas to get you started:
 | [0229-majority-element-ii](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0560-subarray-sum-equals-k) |
 ## Math
@@ -104,6 +105,7 @@ Here are some ideas to get you started:
 | [0205-isomorphic-strings](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0387-first-unique-character-in-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -295,6 +297,7 @@ Here are some ideas to get you started:
 | ------- |
 | [0169-majority-element](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0387-first-unique-character-in-a-string) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -340,6 +343,7 @@ Here are some ideas to get you started:
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
