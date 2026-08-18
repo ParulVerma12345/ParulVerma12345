@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 | [0027-remove-element](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0054-spiral-matrix) |
@@ -69,6 +70,7 @@ Here are some ideas to get you started:
 | [0001-two-sum](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0169-majority-element) |
