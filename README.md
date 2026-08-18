@@ -53,6 +53,7 @@ Here are some ideas to get you started:
 | [0217-contains-duplicate](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0287-find-the-duplicate-number) |
@@ -191,6 +192,7 @@ Here are some ideas to get you started:
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
@@ -339,6 +341,7 @@ Here are some ideas to get you started:
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0239-sliding-window-maximum) |
 | [0912-sort-an-array](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -363,11 +366,13 @@ Here are some ideas to get you started:
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0918-maximum-sum-circular-subarray) |
 ## Greedy
 |  |
@@ -379,4 +384,8 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0042-trapping-rain-water) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
