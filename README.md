@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 | [0048-rotate-image](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0066-plus-one) |
@@ -190,6 +191,7 @@ Here are some ideas to get you started:
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0198-house-robber) |
@@ -359,4 +361,8 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0918-maximum-sum-circular-subarray) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
