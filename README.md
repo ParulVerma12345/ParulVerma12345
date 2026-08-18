@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 | [0033-search-in-rotated-sorted-array](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0054-spiral-matrix) |
@@ -124,6 +125,7 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0155-min-stack) |
@@ -152,6 +154,7 @@ Here are some ideas to get you started:
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0125-valid-palindrome) |
@@ -193,6 +196,7 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -369,4 +373,8 @@ Here are some ideas to get you started:
 | ------- |
 | [0055-jump-game](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0134-gas-station) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
