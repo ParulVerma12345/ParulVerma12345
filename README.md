@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 | [0078-subsets](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0134-gas-station](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0169-majority-element) |
@@ -365,4 +366,5 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0055-jump-game) |
+| [0134-gas-station](https://github.com/ParulVerma12345/ParulVerma12345/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
